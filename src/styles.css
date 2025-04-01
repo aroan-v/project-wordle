@@ -107,6 +107,13 @@ h1 {
   font-size: 2rem;
 }
 
+.reset-button {
+  margin-top: 1rem;
+  border: 1px solid white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
 /*
   Round the corners for the 4 cells at the very corners of
   the game board
